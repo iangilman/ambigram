@@ -115,9 +115,6 @@
     "brace-style": [
       "off"
     ],
-    "camelcase": [
-      "error"
-    ],
     "comma-spacing": [
       "error"
     ],
@@ -274,6 +271,7 @@
     "App": true,
     "_": false,
     "$": false,
-    "Snap": false
+    "Snap": false,
+    "SuperGif": false
   }
 }

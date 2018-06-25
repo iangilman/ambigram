@@ -43,3 +43,9 @@ html {
   width: calc(100vw - 250px);
   height: calc(100vh - 40px);
 }
+
+.gif,
+.jsgif canvas {
+  display: block;
+  margin: 40px auto;
+}
